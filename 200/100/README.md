@@ -13,11 +13,11 @@ Briefly describe the change the requestor wants to make:
 #### Unmet Goals
 A future experience one wants but can't get at the moment:
 
-* I can fall asleep.
-* Stay asleep.
-* No racing thoughts before going to sleep.
-* When I wake up in the middle of night, I can quickly go back to sleep.
-* I wake up refreshed.
+* *I can fall asleep.*
+* *Stay asleep.*
+* *No racing thoughts before going to sleep.*
+* *When I wake up in the middle of night, I can quickly go back to sleep.*
+* *I wake up refreshed.*
 
 ***Goal Types***
 
@@ -64,55 +64,55 @@ A future experience one wants but can't get at the moment:
 #### Choice Set
 What one considers hiring to overcome their constraints, and make progress towards their desired state.
 
-* Sleeping pills.
-* Meditate.
-* Listen to podcast.
-* Listen to music.
-* Listen to audiobook.
-* Excercise for 60 min. during the day.
-* Use a white noise sound machine.
-* Wear an eyemask.
-* Hot shower/bath just before bed.
-* Drink a relaxation tea.
+* *Sleeping pills.*
+* *Meditate.*
+* *Listen to podcast.*
+* *Listen to music.*
+* *Listen to audiobook.*
+* *Excercise for 60 min. during the day.*
+* *Use a white noise sound machine.*
+* *Wear an eyemask.*
+* *Hot shower/bath just before bed.*
+* *Drink a relaxation tea.*
 
 ----
 
 #### Constraints
 What prevents us from fulfilling those unmet goals: actualization gap.
 
-* I sleep in the same room as my spouse.
-* My spouse snores.
-* I'm sensitive to loud noises.
-* My bedroom has lots of light coming in.
-* It's difficult for me to wind down negative (anxiety) thoughts.
+* *I sleep in the same room as my spouse.*
+* *My spouse snores.*
+* *I'm sensitive to loud noises.*
+* *My bedroom has lots of light coming in.*
+* *It's difficult for me to wind down negative (anxiety) thoughts.*
 
 ***Constraint Types***
 
-[x]  Anxiety:  Concern about undesirable things happening.
+[x]  Anxiety: Concern about undesirable things happening.
 
-[ ]  Lack of skill:  Lacking the knowledge to understand something or lacking the physical capability to execute.
+[ ]  Lack of skill: Lacking the knowledge to understand something or lacking the physical capability to execute.
 
-[ ]  Switching cost:  A perception that making a change is too much effort, or will not be worth it.
+[ ]  Switching cost: A perception that making a change is too much effort, or will not be worth it.
 
 [x]  Habit: Mental schemas and physical behaviors that one is accustomed to, that are hard to unlearn/give up.
 
-[ ]  Functional dependency:  The new way must interact with related, but separate, product or behavior that is also consumed.
+[ ]  Functional dependency: The new way must interact with related, but separate, product or behavior that is also consumed.
 
-[ ]  Money:  Lack of accessible funds.
+[ ]  Money: Lack of accessible funds.
 
-[ ]  Time:  Perception that the investment in time (effort) is not worth it.
+[ ]  Time: Perception that the investment in time (effort) is not worth it.
 
-[ ]  Situational barrier:  Attributes of the current environment that are outside of the consumer's control.
+[ ]  Situational barrier: Attributes of the current environment that are outside of the consumer's control.
 
-[ ]  Organizational barrier:  Attributes of the current work environment that are outside of the consumer's control.
+[ ]  Organizational barrier: Attributes of the current work environment that are outside of the consumer's control.
 
 ----
 
 #### Catalysts
 Events that create or affect unmet goals, constraints, and choice set:
 
-* An upcoming public speaking event is introducing anxiety. This is making it hard to fall asleep, and stay asleep.
-* I have a history of intermittent insomnia.
+* *An upcoming public speaking event is introducing anxiety. This is making it hard to fall asleep, and stay asleep.*
+* *I have a history of intermittent insomnia.*
 
 ***Catalyst Types***
 
