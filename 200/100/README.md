@@ -160,21 +160,21 @@ Tradeoff assessment is when thinking about what to hire for your Job to be Done.
 ----
 Hiring is not using, buying, or consuming. Rather, it’s that magic moment when one thinks, “yes, this is going to work for me!”. Once decided to hire to get the job done, consider what the hiring is for:
 
-#### Hiring a new product or offering [ ], then
+#### [Hiring a new product or offering](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/100/README.md) [ ], then
 1. [Conduct job interviews.|Step%3A+Conduct+Jobs+Interviews]
 2. [Create a job map.|Step%3A+Create+a+Job+Map]
 3. [Find underserved needs.|Step%3A+Find+Underserved+Needs]
 4. [Create a value proposition.|Step%3A+Create+a+Value+Proposition]
 5. [Test assumptions.|Step%3A+Test+Assumptions]
 
-#### Hiring an optimized existing product or service [x], then
+#### [Hiring an optimized existing product or service](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/200/README.md) [x], then
 1. [Conduct job interviews.|Step%3A+Conduct+Jobs+Interviews]
 2. [Compare competing solutions.|Step%3A+Compare+Competing+Solutions]
 3. [Create a consumption journey map.|Step%3A+Create+a+Consumption+Journey+Map]
 4. [Write job stories.|Step%3A+Write+Job+Stories]
 5. [Create a roadmap.|Step%3A+Create+a+Roadmap]
 
-#### Hiring more of an existing offering [ ], then 
+#### [Hiring more of an existing offering](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/300/README.md) [ ], then 
 1. [Run switch interviews.|Step%3A+Run+Switch+Interviews]
 2. [Analyze the four forces.|Step%3A+Analyze+the+Four+Forces]
 3. [Write job stories.|Step%3A+Write+Job+Stories]
