@@ -21,43 +21,43 @@ A future experience one wants but can't get at the moment:
 
 ***Goal Types***
 
-[ ] Competence: very capable and effective in your actions rather than the feeling incompetent or ineffective.
+[ ] Competence: Very capable and effective in your actions rather than the feeling incompetent or ineffective.
 
-[x] Control: determine the behavior of, or supervise the running of things around you.
+[x] Control: Determine the behavior of, or supervise the running of things around you.
 
-[ ] Organization: know where things ar, can account for them, and access them.
+[ ] Organization: Know where things ar, can account for them, and access them.
 
-[ ] Relatedness: regular intimate contact with people who care about you rather than feeling lonely and uncared for.
+[ ] Relatedness: Regular intimate contact with people who care about you rather than feeling lonely and uncared for.
 
-[ ] Self-actualizing: developing your best potentials and making life meaningful vs feeling stagnant and life has little meaning.
+[ ] Self-actualizing: Developing your best potentials and making life meaningful vs feeling stagnant and life has little meaning.
 
-[ ] Security: safety in your life, rather than feeling uncertain and threatened by your circumstance.
+[ ] Security: Safety in your life, rather than feeling uncertain and threatened by your circumstance.
 
-[ ] Influence: liked, respected, and have influence over others rather than feeling like no one values your advice or opinion.
+[ ] Influence: Liked, respected, and have influence over others rather than feeling like no one values your advice or opinion.
 
-[ ] Physical thriving: body is healthy and well taken care of rather than feeling out of shape and unhealthy.
+[ ] Physical thriving: Body is healthy and well taken care of rather than feeling out of shape and unhealthy.
 
-[ ] Self-esteem: a worthy person who is as good, or better, than anyone else - rather than feeling like a "loser" or inadequate.
+[ ] Self-esteem: A worthy person who is as good, or better, than anyone else - rather than feeling like a "loser" or inadequate.
 
-[ ] Pleasure: mental and physical enjoyment rather than bored, under-stimulated by life.
+[ ] Pleasure: Mental and physical enjoyment rather than bored, under-stimulated by life.
 
-[ ] Self-expression: inner thoughts and feeling realized in a way that others can also experience.
+[ ] Self-expression: Inner thoughts and feeling realized in a way that others can also experience.
 
-[ ] Recognition: getting attention and rewards for your efforts and accomplishments.
+[ ] Recognition: Getting attention and rewards for your efforts and accomplishments.
 
-[ ] Care: providing meaningful assistance to others.
+[ ] Care: Providing meaningful assistance to others.
 
-[ ] Insight: comprehending a specific phenomenon, subject matter, or fact.
+[ ] Insight: Comprehending a specific phenomenon, subject matter, or fact.
 
-[ ] Self-proficiency: getting better at executing a specific task or skill.
+[ ] Self-proficiency: Getting better at executing a specific task or skill.
 
-[ ] Scale: maintain control as things get more complex.
+[ ] Scale: Maintain control as things get more complex.
 
-[ ] Time-saver: time is being used effectively.
+[ ] Time-saver: Time is being used effectively.
 
-[ ] Risk-reducer: confidence that one or more outcomes are more likely to happen.
+[ ] Risk-reducer: Confidence that one or more outcomes are more likely to happen.
 
-[ ] Reliability: counting on things and people behaving as they expect them to.
+[ ] Reliability: Counting on things and people behaving as they expect them to.
 
 ----
 
@@ -90,7 +90,22 @@ What prevents us from fulfilling those unmet goals: actualization gap.
 
 [x]  Anxiety:  Concern about undesirable things happening.
 
+[ ]  Lack of skill:  Lacking the knowledge to understand something or lacking the physical capability to execute.
+
+[ ]  Switching cost:  A perception that making a change is too much effort, or will not be worth it.
+
 [x]  Habit: Mental schemas and physical behaviors that one is accustomed to, that are hard to unlearn/give up.
+
+[ ]  Functional dependency:  The new way must interact with related, but separate, product or behavior that is also consumed.
+
+[ ]  Money:  Lack of accessible funds.
+
+[ ]  Time:  Perception that the investment in time (effort) is not worth it.
+
+[ ]  Situational barrier:  Attributes of the current environment that are outside of the consumer's control.
+
+[ ]  Organizational barrier:  Attributes of the current work environment that are outside of the consumer's control.
+
 ----
 
 #### Catalysts
