@@ -180,6 +180,20 @@ Hiring is not using, buying, or consuming. Rather, it’s that magic moment when
 3. [Write job stories.|Step%3A+Write+Job+Stories]
 4. [Create a roadmap.|Step%3A+Create+a+Roadmap]
 
+#### [Hiring to make customers successful over time](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/400/README.md) [ ], then 
+1.
+2.
+3.
+4.
+5.
+
+#### [Hiring to build a corporate innovation strategy](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/500/README.md) [ ], then 
+1.
+2.
+3.
+4.
+5.
+
 ### Attachments
 
 ### Sub-Tasks
