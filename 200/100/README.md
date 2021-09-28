@@ -161,34 +161,34 @@ Tradeoff assessment is when thinking about what to hire for your Job to be Done.
 Hiring is not using, buying, or consuming. Rather, it’s that magic moment when one thinks, “yes, this is going to work for me!”. Once decided to hire to get the job done, consider what the hiring is for:
 
 #### [Hiring a New Product or Offering](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/100/README.md) [ ], then
-1. [Conduct Job Interviews.|Step%3A+Conduct+Jobs+Interviews]
-2. [Create a Job Map.|Step%3A+Create+a+Job+Map]
-3. [Find Underserved Needs.|Step%3A+Find+Underserved+Needs]
-4. [Create a Value Proposition.|Step%3A+Create+a+Value+Proposition]
-5. [Test Assumptions.|Step%3A+Test+Assumptions]
+1. [Conduct Job Interviews.](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/200/1000/README.md)
+2. [Create a Job Map.]()
+3. [Find Underserved Needs.]()
+4. [Create a Value Proposition.]()
+5. [Test Assumptions.]()
 
 #### [Hiring an Optimized Existing Product or Service](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/200/README.md) [x], then
-1. [Conduct Job Interviews.|Step%3A+Conduct+Jobs+Interviews]
-2. [Compare Competing Solutions.|Step%3A+Compare+Competing+Solutions]
-3. [Create a Consumption Journey Map.|Step%3A+Create+a+Consumption+Journey+Map]
-4. [Write Job Stories.|Step%3A+Write+Job+Stories]
-5. [Create a Roadmap.|Step%3A+Create+a+Roadmap]
+1. [Conduct Job Interviews.](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/200/1000/README.md)
+2. [Compare Competing Solutions.]()
+3. [Create a Consumption Journey Map.]()
+4. [Write Job Stories.]()
+5. [Create a Roadmap.]()
 
 #### [Hiring more of an Existing Offering](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/300/README.md) [ ], then 
-1. [Run Switch Interviews.|Step%3A+Run+Switch+Interviews]
-2. [Analyze the Four Forces.|Step%3A+Analyze+the+Four+Forces]
-3. [Write Job Stories.|Step%3A+Write+Job+Stories]
-4. [Create a Roadmap.|Step%3A+Create+a+Roadmap]
+1. [Run Switch Interviews.]()
+2. [Analyze the Four Forces.]()
+3. [Write Job Stories.]()
+4. [Create a Roadmap.]()
 
 #### [Hiring to Make Customers Successful over Time](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/400/README.md) [ ], then 
-1. [Conduct Job Interviews.]()
+1. [Conduct Job Interviews.](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/200/1000/README.md)
 2. [Create a Job Map.]()
 3. [Onboard Customers Successfully.]()
 4. [Maximize Customer Retention.]()
 5. [Provide Relevant Support.]()
 
 #### [Hiring to Build a Corporate Innovation Strategy](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/300/500/README.md) [ ], then 
-1. [Conduct Job Interviews.]()
+1. [Conduct Job Interviews.](https://github.com/vanHeemstraSystems/jobs-to-be-done-headstart/blob/main/200/200/1000/README.md)
 2. [Create a Job Map.]()
 3. [Find Underserved Needs.]()
 4. [Create a Jobs-Based Strategy.]()
