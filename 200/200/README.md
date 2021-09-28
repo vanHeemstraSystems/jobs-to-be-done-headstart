@@ -4,7 +4,7 @@
 
 See [README.md](./1000/README.md)
 
-## 1100 - Step: Create a Jobs Map
+## 1100 - Step: Create a Job Map
 
 See [README.md](./1100/README.md)
 
