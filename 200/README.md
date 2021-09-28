@@ -16,3 +16,11 @@ Source: https://kanbanize.com/agile/project-management/tasks-epics-initiatives-t
 ## 100 - Jobs-to-be-Done in an Agile Initiative or Feature
 
 See [README.md](./100/README.md)
+
+## 200 - Jobs-to-be-Done Steps
+
+See [README.md](./200/README.md)
+
+## 300 - Jobs-to-be-Done Recipes
+
+See [README.md](./300/README.md)
