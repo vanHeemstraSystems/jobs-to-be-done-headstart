@@ -20,6 +20,7 @@ A future experience one wants but can't get at the moment:
 * I wake up refreshed.
 
 ***Goal Types***
+
 [x] Control: determine the behavior of, or supervise the running of things around you.
 
 ----
@@ -50,7 +51,9 @@ What prevents us from fulfilling those unmet goals: actualization gap.
 * It's difficult for me to wind down negative (anxiety) thoughts.
 
 ***Constraint Types***
+
 [x]  Anxiety:  Concern about undesirable things happening.
+
 [x]  Habit: Mental schemas and physical behaviors that one is accustomed to, that are hard to unlearn/give up.
 ----
 
