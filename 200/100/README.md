@@ -21,7 +21,43 @@ A future experience one wants but can't get at the moment:
 
 ***Goal Types***
 
+[ ] Competence: very capable and effective in your actions rather than the feeling incompetent or ineffective.
+
 [x] Control: determine the behavior of, or supervise the running of things around you.
+
+[ ] Organization: text
+
+[ ] Relatedness: text
+
+[ ] Self-actualizing: text
+
+[ ] Security: text
+
+[ ] Influence: text
+
+[ ] Physical thriving: text
+
+[ ] Self-esteem: text
+
+[ ] Pleasure: text
+
+[ ] Self-expression: text
+
+[ ] Recognition: text
+
+[ ] Care: text
+
+[ ] Insight: text
+
+[ ] Self-proficiency: text
+
+[ ] Scale: text
+
+[ ] Time-saver: text
+
+[ ] Risk-reducer: text
+
+[ ] Reliability: text
 
 ----
 
