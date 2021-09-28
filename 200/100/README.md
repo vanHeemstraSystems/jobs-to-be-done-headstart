@@ -115,7 +115,28 @@ Events that create or affect unmet goals, constraints, and choice set:
 * I have a history of intermittent insomnia.
 
 ***Catalyst Types***
+
 [x]  Anticipated event: Expecting that something will happen.
+
+[ ]  Unexpected event: Something happened that caught you by surprise.
+
+[ ]  Related event: Something that has happened in the past, has happened again.
+
+[ ]  Advertisement: Promotional content intended to inform consumers of a product and/or persuade them to use it.
+
+[ ]  Word of mouth: First-hand information gained from someone.
+
+[ ]  Observed use: Seeing someone using something that was previously unknown to you.
+
+[ ]  Positive experience with product: Consumption of a product has made the consumer believe progress is likely.
+
+[ ]  Negative experience with product: Consumption of a product has made the consumer believe progress is not likely.
+
+[ ]  Made progress: Getting closer to having a Job to be Done, become Done.
+
+[ ]  Job became Done: Job is Done. The desired progress was made.
+
+[ ]  Lower-order Job-to-be-Done: Seeking progress somewhere else, causes the desire for progress elsewhere.
 
 ----
 
