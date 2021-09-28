@@ -25,39 +25,39 @@ A future experience one wants but can't get at the moment:
 
 [x] Control: determine the behavior of, or supervise the running of things around you.
 
-[ ] Organization: text
+[ ] Organization: know where things ar, can account for them, and access them.
 
-[ ] Relatedness: text
+[ ] Relatedness: regular intimate contact with people who care about you rather than feeling lonely and uncared for.
 
-[ ] Self-actualizing: text
+[ ] Self-actualizing: developing your best potentials and making life meaningful vs feeling stagnant and life has little meaning.
 
-[ ] Security: text
+[ ] Security: safety in your life, rather than feeling uncertain and threatened by your circumstance.
 
-[ ] Influence: text
+[ ] Influence: liked, respected, and have influence over others rather than feeling like no one values your advice or opinion.
 
-[ ] Physical thriving: text
+[ ] Physical thriving: body is healthy and well taken care of rather than feeling out of shape and unhealthy.
 
-[ ] Self-esteem: text
+[ ] Self-esteem: a worthy person who is as good, or better, than anyone else - rather than feeling like a "loser" or inadequate.
 
-[ ] Pleasure: text
+[ ] Pleasure: mental and physical enjoyment rather than bored, under-stimulated by life.
 
-[ ] Self-expression: text
+[ ] Self-expression: inner thoughts and feeling realized in a way that others can also experience.
 
-[ ] Recognition: text
+[ ] Recognition: getting attention and rewards for your efforts and accomplishments.
 
-[ ] Care: text
+[ ] Care: providing meaningful assistance to others.
 
-[ ] Insight: text
+[ ] Insight: comprehending a specific phenomenon, subject matter, or fact.
 
-[ ] Self-proficiency: text
+[ ] Self-proficiency: getting better at executing a specific task or skill.
 
-[ ] Scale: text
+[ ] Scale: maintain control as things get more complex.
 
-[ ] Time-saver: text
+[ ] Time-saver: time is being used effectively.
 
-[ ] Risk-reducer: text
+[ ] Risk-reducer: confidence that one or more outcomes are more likely to happen.
 
-[ ] Reliability: text
+[ ] Reliability: counting on things and people behaving as they expect them to.
 
 ----
 
